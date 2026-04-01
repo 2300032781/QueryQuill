@@ -5,7 +5,7 @@ export default function App() {
     <div>
       {/* Navbar */}
       <nav style={{ backgroundColor: "#16a34a", color: "white", padding: "1rem 2rem", boxShadow: "0 2px 5px rgba(0,0,0,0.1)" }}>
-        <h1 style={{ fontSize: "1.5rem" }}>Smart Help Platform</h1>
+        <h1 style={{ fontSize: "1.5rem" }}>QueryQuill:- A Smart Help Platform</h1>
       </nav>
 
       {/* Hero Section */}
